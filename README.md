@@ -18,12 +18,46 @@ ProjetoBanco/
 ├── Main.java
 ├── model/
 ├── repository/
-└── service/
+└── service/Tecnologias
 
-Tecnologias
+##Tecnologias
+
 Java
-Programação Orientada a Objetos (POO)
+Programação Orientada a Objetos (POO
+)
 Autor
-Marcio Oliver 
+Marcio Oliver (OliverSxz)
 
+## Como executar
 
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/OliverSxz/ProjetoBancoJava.git
+```
+
+2. Entre na pasta do projeto:
+
+```bash
+cd ProjetoBancoJava
+```
+
+3. Compile:
+
+```bash
+javac Main.java model/*.java repository/*.java service/*.java
+```
+
+4. Execute:
+
+```bash
+java Main
+```
+## Conceitos praticados
+
+- Programação Orientada a Objetos (POO)
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Collections
+- Organização em camadas
